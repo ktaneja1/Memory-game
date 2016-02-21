@@ -28,14 +28,14 @@
     <td> block 12 </td>
     <td> block 13 </td>
   </tr>
+  <tr>
   <td> block 14 </td>
   <td> block 15 </td>
   <td> block 16 </td>
   <td> block 17 </td>
   <td> block 18 </td>
   <td> block 19 </td>
-
+  <tr>
 </table>
-  
-  
+
   </html>
