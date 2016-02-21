@@ -1,7 +1,7 @@
 # Memory-game
 <!DOCTYPE html>
 <html>
-<html lang= "en">
+<html lang= "en-US">
   <head>
   <meta charset= "utf-8">
   <title> Memory Game </title>
