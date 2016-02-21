@@ -8,8 +8,8 @@
   </head>
   
   <body>
-  <h1>  </h1>
-  <p> this is a paragraph. </p>
+  <h1> Memory Game! </h1>
+  <p> Directions: Memory is a game in which all of the cards are face down, two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards. </p>
   </body>
   
   </html>
