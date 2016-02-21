@@ -1,5 +1,5 @@
 # Memory-game
-<!doctype HTML>
+<!doctype html>
 <html>
 <html lang= "en">
   <head>
