@@ -26,9 +26,9 @@
     <td> block 10 </td>
     <td> block 11 </td>
     <td> block 12 </td>
-    <tr> block 13 </td>
+    <td> block 13 </td>
   </tr>
-  </td> block 14 </td>
+  <td> block 14 </td>
   <td> block 15 </td>
   <td> block 16 </td>
   <td> block 17 </td>
