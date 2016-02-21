@@ -16,11 +16,16 @@
     <td> block 1 </td>
     <td> block 2 </td>
     <td> block 3 </td>
-  </tr>
-  <tr>
     <td> block 4 </td>
     <td> block 5 </td>
     <td> block 6 </td>
+    <td> block 7 </td>
+  </tr>
+  <tr>
+    <td> block 8 </td>
+    <td> block 9 </td>
+    <td> block 10 </td>
+    <td> block 11 </td>
   </tr>
 </table>
   
