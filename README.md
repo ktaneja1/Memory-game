@@ -21,21 +21,29 @@
     <td> block 6 </td>
   </tr>
   <tr>
+    <td> block 7 </td>
     <td> block 8 </td>
     <td> block 9 </td>
     <td> block 10 </td>
     <td> block 11 </td>
     <td> block 12 </td>
-    <td> block 13 </td>
   </tr>
   <tr>
+  <td> block 13 </td>
   <td> block 14 </td>
   <td> block 15 </td>
   <td> block 16 </td>
   <td> block 17 </td>
   <td> block 18 </td>
-  <td> block 19 </td>
+  </tr>
   <tr>
+  <td> block 19 </td>
+  <td> block 20 </td>
+  <td> block 21 </td>
+  <td> block 22 </td>
+  <td> block 23 </td>
+  <td> block 24 </td>
+  </tr>
 </table>
 
   </html>
