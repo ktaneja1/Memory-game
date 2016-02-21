@@ -1,5 +1,6 @@
 # Memory-game
 <!doctype HTML>
+<html>
 <html lang= "en">
   <head>
   <meta charset= "utf-8">
@@ -7,7 +8,7 @@
   </head>
   
   <body>
-  <h1> Testing 1 </h1>
+  <h1>  </h1>
   <p> this is a paragraph. </p>
   </body>
   
