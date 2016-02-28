@@ -31,7 +31,7 @@ alt="yoshi" height= "100" width="100"> </td>
 alt= "laptop" height= "100" width="100"> </td>
 
     <td> 
-    <img src="https://collegediabetesnetwork.org/sites/default/files/MFlag.jpg"
+    <img src="https://collegediabetesnetwork.org/sites/default/files/MFlag.png"
 alt="Maryland" height= "100" width="100"> </td>
     
     <td>
