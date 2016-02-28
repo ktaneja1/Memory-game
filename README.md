@@ -113,7 +113,7 @@ alt="Nemo" height= "100" width="100"> </td>
 alt="kitten" height= "100" width="100"> </td>
 
   <td> 
-    <<img src="http://www.clker.com/cliparts/x/m/R/a/7/o/rainbow-of-colors.svg"
+    <img src="http://www.clker.com/cliparts/x/m/R/a/7/o/rainbow-of-colors.svg"
 alt="colorwheel" height= "100" width= "100"></td>
 
   </tr>
