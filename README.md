@@ -23,7 +23,7 @@ alt= "AceOfSpades" height= "100" width="100"> </td>
 alt= "Mario" height= "100" width="100"> </td>
 
     <td> 
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/39/YoshiMarioParty9.jpg"
+    <img src="yoshi.jpg"
 alt="yoshi" height= "100" width="100"> </td>
 
     <td> 
@@ -75,7 +75,7 @@ alt= "Mario" height= "100" width="100"> </td>
 alt="colorwheel" height="100" width="100> </td>
 
   <td> 
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/39/YoshiMarioParty9.png"
+  <img src="yoshi.jpg"
 alt="yoshi" height= "100" width="100"> </td>
   
   <td> 
