@@ -1,5 +1,3 @@
-﻿<img src="url" alt="some_text">
-
 <img src="http://cs.nyu.edu/courses/spring15/CSCI-UA.0061-001/newcards/images/Ace%20of%20Spades.jpg"
 alt= "AceOfSpades"
 
