@@ -14,16 +14,16 @@
 <table style= "width:100%">
   <tr>
   
-    <td> block 1 </td>
+    <td> block 1 
     <img src="http://cs.nyu.edu/courses/spring15/CSCI-UA.0061-001/newcards/images/Ace%20of%20Spades.jpg"
-alt= "AceOfSpades" height= "100" width="100">
+alt= "AceOfSpades" height= "100" width="100"> </td>
 
     <td> block 2 </td>
-    <img src="http://vignette1.wikia.nocookie.net/mario/images/1/15/MarioNSMB2.png/revision/latest?cb=20120816162009"
+    <img src="http://vignette1.wikia.nocookie.net/mario/images/1/15/MarioNSMB2.png/revision/latest?cb=20120816162009.jpg"
 alt= "Mario" height= "100" width="100">
 
     <td> block 3 </td>
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/39/YoshiMarioParty9.png"
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/39/YoshiMarioParty9.jpg"
 alt="yoshi" height= "100" width="100">
 
     <td> block 4 </td>
@@ -31,11 +31,11 @@ alt="yoshi" height= "100" width="100">
 alt= "laptop" height= "100" width="100">
 
     <td> block 5 </td>
-    <img src="https://collegediabetesnetwork.org/sites/default/files/MFlag.png"
+    <img src="https://collegediabetesnetwork.org/sites/default/files/MFlag.jpg"
 alt="Maryland" height= "100" width="100">
     
     <td> block 6 </td>
-    <img src="http://ih.constantcontact.com/fs169/1113840988973/img/44.jpg?a=1116001867584"
+    <img src="http://ih.constantcontact.com/fs169/1113840988973/img/44.jpg?a=1116001867584.jpg"
 alt="terps" height= "100" width="100">
   </tr>
   
@@ -45,7 +45,7 @@ alt="terps" height= "100" width="100">
 alt= "monster truck" height= "100" width="100">
  
     <td> block 8 </td>
-     <img src="http://vignette4.wikia.nocookie.net/fantendo/images/2/26/Star.PNG/revision/20090803173255"
+     <img src="http://vignette4.wikia.nocookie.net/fantendo/images/2/26/Star.PNG/revision/20090803173255.jpg"
 alt="Star" height= "100" width="100">
 
     <td> block 9 </td>
@@ -53,7 +53,7 @@ alt="Star" height= "100" width="100">
 alt="clashofclans" height= "100" width="100">
    
       <td> block 10 </td>
-      <img src="http://vignette2.wikia.nocookie.net/pixar/images/8/82/Nemo.png/revision/latest?cb=20110504131029"
+      <img src="http://vignette2.wikia.nocookie.net/pixar/images/8/82/Nemo.png/revision/latest?cb=20110504131029.jpg"
 alt="Nemo" height= "100" width="100">
     
     <td> block 11 </td>
@@ -67,7 +67,7 @@ alt= "AceOfSpades" height= "100" width="100">
   
   <tr>
   <td> block 13 </td>
-    <img src="http://vignette1.wikia.nocookie.net/mario/images/1/15/MarioNSMB2.png/revision/latest?cb=20120816162009"
+    <img src="http://vignette1.wikia.nocookie.net/mario/images/1/15/MarioNSMB2.png/revision/latest?cb=20120816162009.jpg"
 alt= "Mario" height= "100" width="100">
  
   <td> block 14 </td>
