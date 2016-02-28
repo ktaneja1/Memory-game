@@ -15,7 +15,7 @@
   <tr>
     <td> block 1 </td>
     <img src="http://cs.nyu.edu/courses/spring15/CSCI-UA.0061-001/newcards/images/Ace%20of%20Spades.jpg"
-alt= "AceOfSpades">
+alt= "AceOfSpades" height= "42" width="42">
     <td> block 2 </td>
     <img src="http://vignette1.wikia.nocookie.net/mario/images/1/15/MarioNSMB2.png/revision/latest?cb=20120816162009"
 alt= "Mario"
