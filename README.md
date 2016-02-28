@@ -72,6 +72,7 @@ alt= "Mario" height= "100" width="100">
   <td> block 14 </td>
   <img src="http://www.clker.com/cliparts/x/m/R/a/7/o/rainbow-of-colors.svg"
 alt="colorwheel"
+
   
   <td> block 15 </td>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/39/YoshiMarioParty9.png"
@@ -111,8 +112,9 @@ alt="Nemo" height= "100" width="100">
 alt="kitten" height= "100" width="100">
 
   <td> block 24 </td>
-    <img src="http://vignette1.wikia.nocookie.net/mario/images/1/15/MarioNSMB2.png/revision/latest?cb=20120816162009"
-alt= "Mario" height= "100" width="100">
+    <<img src="http://www.clker.com/cliparts/x/m/R/a/7/o/rainbow-of-colors.svg"
+alt="colorwheel">
+
   </tr>
 </table>
 
