@@ -14,6 +14,8 @@
 <table style= "width:100%">
   <tr>
     <td> block 1 </td>
+    <img src="http://cs.nyu.edu/courses/spring15/CSCI-UA.0061-001/newcards/images/Ace%20of%20Spades.jpg"
+alt= "AceOfSpades">
     <td> block 2 </td>
     <td> block 3 </td>
     <td> block 4 </td>
