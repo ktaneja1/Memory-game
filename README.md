@@ -113,7 +113,7 @@ alt="kitten" height= "100" width="100">
 
   <td> block 24 </td>
     <<img src="http://www.clker.com/cliparts/x/m/R/a/7/o/rainbow-of-colors.svg"
-alt="colorwheel">
+alt="colorwheel" height= "100" width= "100">
 
   </tr>
 </table>
