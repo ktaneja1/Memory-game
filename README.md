@@ -23,7 +23,7 @@ alt= "AceOfSpades" height= "100" width="100"> </td>
 alt= "Mario" height= "100" width="100"> </td>
 
     <td> 
-    <img src="yoshi.jpg"
+    <img src="newyoshi.jpg"
 alt="yoshi" height= "100" width="100"> </td>
 
     <td> 
@@ -75,7 +75,7 @@ alt= "Mario" height= "100" width="100"> </td>
 alt="colorwheel" height="100" width="100> </td>
 
   <td> 
-  <img src="yoshi.jpg"
+  <img src="newyoshi.jpg"
 alt="yoshi" height= "100" width="100"> </td>
   
   <td> 
