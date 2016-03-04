@@ -57,7 +57,7 @@ alt="clashofclans" height= "100" width="100"> </td>
 alt="Nemo" height= "100" width="100"> </td>
     
     <td> 
-    <img src= "https://s-media-cache-ak0.pinimg.com/236x/12/f3/fd/12f3fdcc11658741787fd5c839ca8705.jpgg"
+    <img src= "https://s-media-cache-ak0.pinimg.com/236x/12/f3/fd/12f3fdcc11658741787fd5c839ca8705.jpg"
 alt="kitten" height= "100" width="100"> </td>
   
       <td> 
