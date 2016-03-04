@@ -75,7 +75,7 @@ alt= "Mario" height= "100" width="100"> </td>
 alt="colorwheel" height="100" width="100> </td>
 
   <td> 
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d1/Toad_3D_Land.png"
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d1/Toad_3D_Land.png"
 alt="toad" height= "100" width="100"> </td>
   
   <td> 
