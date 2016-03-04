@@ -23,8 +23,8 @@ alt= "AceOfSpades" height= "100" width="100"> </td>
 alt= "Mario" height= "100" width="100"> </td>
 
     <td> 
-    <img src="newyoshi.jpg"
-alt="yoshi" height= "100" width="100"> </td>
+    <img src="toad.jpg"
+alt="toad" height= "100" width="100"> </td>
 
     <td> 
     <img src="http://www.cs.technion.ac.il/~cs234326/cgi-bin/iritALL/laptop.jpg"
@@ -75,8 +75,8 @@ alt= "Mario" height= "100" width="100"> </td>
 alt="colorwheel" height="100" width="100> </td>
 
   <td> 
-  <img src="newyoshi.jpg"
-alt="yoshi" height= "100" width="100"> </td>
+  <img src="toad.jpg"
+alt="toad" height= "100" width="100"> </td>
   
   <td> 
   <img src="http://www.cs.technion.ac.il/~cs234326/cgi-bin/iritALL/laptop.jpg"
