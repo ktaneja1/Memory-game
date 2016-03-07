@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<html lang= "en-US">
+  <head>
+  <meta charset= "utf-8">
+  <title> Memory Game </title>
+  </head>
+  
+  <body>
+  <h1 style= "background-color: #FF8C00"> Memory Game! </h1>
+  <p> <b> Directions: </b> Memory is a game in which all of the cards are face down, two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards. </p>
+  </body>
+<table style= "width:100%">
+  <tr>
+<scipt>
+<button type= "button"
+on click= "cardFlip()">
+<td> 
+    <img src="http://cs.nyu.edu/courses/spring15/CSCI-UA.0061-001/newcards/images/Ace%20of%20Spades.jpg"
+alt= "AceOfSpades" height= "100" width="100"> </td>
+</button>
+<img id= AceOfSpades"
+
+</td>
+</tr>
+
+<script>
+	<img id= "AceOfSpades"
+	onclick= "changeImage()"
+	src= "http://cs.nyu.edu/courses/spring15/CSCI-UA.0061-001/newcards/images/Ace%20of%20Spades.jpg"
+	width= "100" height= "100"
+
+
+	<img id="backcard" 
+onclick="changeImage" 
+src="http://orig15.deviantart.net/b21d/f/2012/352/4/f/4f2e172a94b602a7eb1b15bfdd4c3ae7-d5ogqr3.png" 
+width="100" height="100">
+
+
+<script>
+<button type= "button"
+onclick="myFunction()">
+CARDS TABLE 
+</button>
+
+function changeImage() {
+    var image = document.getElementById('myImage');
+    if (image.src.match("bulbon")) {
+        image.src = "pic_bulboff.gif";
+    } else {
+        image.src = "pic_bulbon.gif";
+    }
+}
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+</body>
+</html>
