@@ -78,7 +78,7 @@ alt="colorwheel" class="card" height="100" width="100/> </td>
  <td> 
     <img src="https://upload.wikimedia.org/wikipedia/en/d/d1/Toad_3D_Land.png"
 alt="toad" class="card" height= "100" width="100"/> </td>
-  
+
   <td> 
   <img src="http://www.cs.technion.ac.il/~cs234326/cgi-bin/iritALL/laptop.jpg"
 alt= "laptop" class="card" height= "100" width="100"/> </td>
