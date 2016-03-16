@@ -46,7 +46,7 @@ alt="terps" class="card" height= "100" width="100"/> </td>
 alt= "monster truck" class="card" height= "100" width="100"/> </td>
  
     <td> 
-     <img src="http://vignette4.wikia.nocookie.net/fantendo/images/2/26/Star.PNG/revision/20090803173255.jpg"
+     <img src="http://vignette4.wikia.nocookie.net/fantendo/images/2/26/Star.PNG/revision/20090803173255"
 alt="Star" class="card" height= "100" width="100"/> </td>
 
     <td> 
