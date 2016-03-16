@@ -119,5 +119,6 @@ alt="colorwheel" class="card" height= "100" width= "100"/></td>
 
   </tr>
 </table>
+<script src="flip.js"></script>
 </body>
   </html>
