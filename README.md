@@ -3,6 +3,7 @@
 <html>
 <html lang= "en-US">
   <head>
+  <link rel="stylesheet" href="style.css" />
   <meta charset= "utf-8">
   <title> Memory Game </title>
   </head>
