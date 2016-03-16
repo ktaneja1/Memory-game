@@ -75,7 +75,7 @@ alt= "Mario" class="card" height= "100" width="100"/> </td>
   <img src="http://www.clker.com/cliparts/x/m/R/a/7/o/rainbow-of-colors.svg"
 alt="colorwheel" class="card" height="100" width="100/> </td>
 
-  <td> 
+ <td> 
     <img src="https://upload.wikimedia.org/wikipedia/en/d/d1/Toad_3D_Land.png"
 alt="toad" class="card" height= "100" width="100"/> </td>
   
