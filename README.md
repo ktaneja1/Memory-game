@@ -76,7 +76,7 @@ alt= "Mario" class="card" height= "100" width="100"/> </td>
 alt="colorwheel" class="card" height="100" width="100/> </td>
 
  <td> 
-    <img src="https://camo.githubusercontent.com/efa00a1738901a7d707f019e7d7b2872e0434f22/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f642f64312f546f61645f33445f4c616e642e706e67"
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d1/Toad_3D_Land.png"
 alt="toad" class="card" height= "100" width="100"/> </td>
 
   <td> 
