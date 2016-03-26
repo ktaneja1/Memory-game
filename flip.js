@@ -8,7 +8,31 @@ $(document).ready(function() { //wait for the document to load fully
     else { //if the card is face down
       $(this).attr('src',$(this).data('card')); //show what card is stored in "card" data variable
       $(this).data('flipped',true); //tell the card it is flipped
-    }
+    var numFlipped = $('.card').filter(function() {
+					return $(this).data('flipped');
+			}).length;
+			
+			if(numFlipped == 2) {
+				//if exactly two cards are flipped
+				alert('two cards flipped over');
+				/*
+					the above code is an alert, and it's use is to show a dialog box to a
+					user that they must press ok to before continuing
+					We'll be using this a bit more next week, but for now it shows how the
+					game can work.
+				*/
+				
+				/*
+					we will be doing some additional work in here to see if they match
+					but we can cover that next week!  If you want to see if you can figure
+					out how we might do that!
+				*/
+
+				//turn all our cards back over
+				$('.card').data('flipped',false);
+				$('.card').attr('src','images/back.png');
+			}
+	}
   });
 
   var AceOfSpades = new Image();
