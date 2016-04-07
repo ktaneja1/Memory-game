@@ -30,7 +30,7 @@ $(document).ready(function() { //wait for the document to load fully
 
 				//turn all our cards back over
 				$('.card').data('flipped',false);
-				$('.card').attr('src','images/back.png');
+				$('.card').attr('src','https://filletfamilyblog.files.wordpress.com/2013/02/d0490860-0-large.jpg');
 			}
 	}
   });

@@ -3,4 +3,26 @@
 }
 #instructions {
 	text-align:center;
-}
+	}
+
+	@keyframes pulse {
+		from(border-color:#040;)
+		to {border-color:#0f0;}
+	}
+	
+	.match{
+		animation-name:pulse;
+		animation-duration: .1s;
+		animation-iteration-count:6;
+		border:4px #040 solid;
+	}
+	
+	.fail{
+		border:4px #c00 solid;
+	}
+	
+	#field >DIV{
+		height:150px;
+	}
+	
+	
