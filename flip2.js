@@ -1,5 +1,16 @@
+'use strict';
+
+var score;
 $(document).ready(function() { //wait for the document to load fully
 
+if (localStorage.getItem("score") != null){
+	score= localStorage.getItem("score");
+}
+	else{
+		score=0;
+	}
+	$('.score').text(score);
+	
   $('.card').click(function() { //when any card is clicked
     if($(this).data('flipped') == true) { //if the card is face up
       $(this).attr('src','https://filletfamilyblog.files.wordpress.com/2013/02/d0490860-0-large.jpg'); //show the back
@@ -146,4 +157,14 @@ function shuffle(array) {
   }
 
   return array;
+}
+fuction checkWin(){
+	if ($('card').length==0){
+		score++;
+		localStorage.setItem("score",score); //saves new score
+		$('.score').text(score); //updates score
+		if (confirm ('You won! Play again?')){
+			location.reload();
+		}
+	}
 }
